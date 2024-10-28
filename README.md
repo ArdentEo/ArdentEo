@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 IT and Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab]
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/ArdentEo/Active-Directory-Lab)
+  
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
