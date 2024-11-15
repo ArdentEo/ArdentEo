@@ -2,7 +2,7 @@
 Certified IT professional</h1>
 <h2>👨‍💻 IT and Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/ArdentEo/Active-Directory-Lab)
+- [Active Directory Home Lab](https://github.com/ArdentEo/Active-Directory-Home-Lab)
   
 
 
