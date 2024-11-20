@@ -7,7 +7,7 @@ Certified IT professional</h1>
 
 
 - [Apply filters to SQL queries](https://github.com/ArdentEo/SQL)
-- [Linux User Access Management Lab](https://github.com/ArdentEo/Linux-User-and-Permission-Management-Project)
+- [Linux User Access Management Lab](https://github.com/ArdentEo/Linux-User-and-Permission-Management)
   
   
  - [Algorithm for file updates (<b>Python</b>)](https://github.com/ArdentEo/Python-Algorithm/blob/main/README.md)
